@@ -1,0 +1,9 @@
+This project uses the following open source code and libraries:
+
+1. Library Name: text-embeddings-inference
+   - Source: https://github.com/huggingface/text-embeddings-inference
+   - License: Apache License 2.0
+
+2. Library Name: transformers
+   - Source: https://github.com/huggingface/transformers/tree/main/src/transformers/models/bert
+   - License: Apache License 2.0
