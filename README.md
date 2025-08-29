@@ -2,6 +2,7 @@
 
 Research code for the paper "Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents".
 
+Paper link: [https://arxiv.org/abs/2508.08645](https://arxiv.org/abs/2508.08645)
 ## 🚀 Quick Start
 ### 1. Environment Setup
 1. Clone the repository:
@@ -53,3 +54,4 @@ Please cite our [paper]() if you use this toolkit:
   year={2025}
 }
 ``` 
+
