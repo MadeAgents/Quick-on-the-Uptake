@@ -44,7 +44,7 @@ Here, `xxx` refers to different baselines. If you set `test_func=test_loop_{xxx}
 
 ## 📑 Citation
 
-Please cite our [paper]() if you use this toolkit:
+Please cite our [paper](https://arxiv.org/abs/2508.08645) if you use this toolkit:
 
 ```
 @article{wu2025quick,
@@ -54,4 +54,5 @@ Please cite our [paper]() if you use this toolkit:
   year={2025}
 }
 ``` 
+
 
