@@ -17,7 +17,7 @@ Paper link: [https://arxiv.org/abs/2508.08645](https://arxiv.org/abs/2508.08645)
 
    Please download the data and save it as Trajectories.
 
-4. Model link：Warmed-up query rewriter [https://huggingface.co/wuuuuuz/IFRAgent](https://huggingface.co/wuuuuuz/IFRAgent)
+4. Model link：Warmed-up query rewriter [https://huggingface.co/wuuuuuz/IFRAgent](https://huggingface.co/wuuuuuz/IFRAgent).
 
 (Steps 2 to 4 can be skipped as we have already prepared the personalized query and personalized SOP in the json file of the MobileIAR dataset.)
 
@@ -54,6 +54,7 @@ Please cite our [paper](https://arxiv.org/abs/2508.08645) if you use this toolki
   year={2025}
 }
 ``` 
+
 
 
 
